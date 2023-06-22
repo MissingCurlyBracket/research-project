@@ -1,2 +1,2 @@
-# research-project
-The repository containing my implementations for the TU Delft CSE3000 Research Project.
+# Research Project
+My research project focused on learning curves and algorithms for fitting them. It compares the Levenberg-Marquardt algorithm to 2 alternatives, Gradieent Descent and BFGS, the implementations of which can be found here.
